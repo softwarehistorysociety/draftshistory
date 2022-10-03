@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>macOS Catalina App Icon Export/AppIcon.appiconset/AppIcon-256px-128pt@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.4" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="41.1104538%" fx="50%" fy="41.1104538%" r="43.9640173%" id="radialGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.15" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <path d="M112.25,0 C174.243963,-1.13881063e-14 224.5,50.2560368 224.5,112.25 C224.5,174.243963 174.243963,224.5 112.25,224.5 C50.2560368,224.5 7.59207086e-15,174.243963 0,112.25 C-7.59207086e-15,50.2560368 50.2560368,1.13881063e-14 112.25,0 Z" id="path-3"></path>
+        <linearGradient x1="50%" y1="86.217272%" x2="50%" y2="0%" id="linearGradient-5">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-10.1%" y="-10.1%" width="120.2%" height="120.2%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="App-Icon" transform="translate(-755.000000, -1461.000000)">
+            <g id="Icon-(Edit-me)" transform="translate(755.000000, 1461.000000)">
+                <g id="Rounded" transform="translate(15.750000, 11.750000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Circle">
+                        <use fill="#00408B" xlink:href="#path-3"></use>
+                        <use fill-opacity="0.82" fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                        <use fill="url(#radialGradient-2)" xlink:href="#path-3"></use>
+                    </g>
+                    <path d="M112.250095,-0.25 C174.382182,-0.25 224.75019,50.1180071 224.75019,112.250095 C224.75019,174.382182 174.382182,224.75019 112.250095,224.75019 C50.1180071,224.75019 -0.25,174.382182 -0.25,112.250095 C-0.25,50.1180071 50.1180071,-0.25 112.250095,-0.25 Z M112.249924,10 C55.7788866,10 10,55.7788866 10,112.249924 C10,168.721185 55.7788866,214.500072 112.249924,214.500072 C168.721185,214.500072 214.500072,168.721185 214.500072,112.249924 C214.500072,55.7788866 168.721185,10 112.249924,10 Z" id="Border" fill-opacity="0.3" fill="url(#linearGradient-5)" mask="url(#mask-4)"></path>
+                </g>
+                <g id="line-art" filter="url(#filter-6)" transform="translate(76.000000, 72.000000)" fill="#FFFFFF">
+                    <path d="M12.4076355,91.5541872 L12.4076355,28.7229064 C12.4076355,25.2860901 9.63009166,22.5 6.20381773,22.5 C2.77754381,22.5 0,25.2860901 0,28.7229064 L0,97.7770936 C0,101.21391 2.77754381,104 6.20381773,104 L75.0461823,104 C78.4724562,104 81.25,101.21391 81.25,97.7770936 C81.25,94.3402773 78.4724562,91.5541872 75.0461823,91.5541872 L12.4076355,91.5541872 Z" id="Path-3" fill-rule="nonzero"></path>
+                    <path d="M35.1576355,69.0541872 L35.1576355,6.2229064 C35.1576355,2.7860901 32.3800917,0 28.9538177,0 C25.5275438,0 22.75,2.7860901 22.75,6.2229064 L22.75,75.2770936 C22.75,78.7139099 25.5275438,81.5 28.9538177,81.5 L97.7961823,81.5 C101.222456,81.5 104,78.7139099 104,75.2770936 C104,71.8402773 101.222456,69.0541872 97.7961823,69.0541872 L35.1576355,69.0541872 Z" id="Path-3" fill-rule="nonzero" transform="translate(63.375000, 40.750000) rotate(-180.000000) translate(-63.375000, -40.750000) "></path>
+                    <path d="M53.8860759,51.1139241 L53.8860759,30.818038 C53.8860759,28.7093938 52.1766821,27 50.068038,27 C47.9593938,27 46.25,28.7093938 46.25,30.818038 L46.25,54.931962 C46.25,57.0406062 47.9593938,58.75 50.068038,58.75 L74.181962,58.75 C76.2906062,58.75 78,57.0406062 78,54.931962 C78,52.8233179 76.2906062,51.1139241 74.181962,51.1139241 L53.8860759,51.1139241 Z" id="Path-3" fill-rule="nonzero" transform="translate(62.125000, 42.875000) rotate(-180.000000) translate(-62.125000, -42.875000) "></path>
+                </g>
+            </g>
+            <g id="Slices" transform="translate(150.000000, 150.000000)"></g>
+        </g>
+    </g>
+</svg>
